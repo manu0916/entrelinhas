@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#245B57" />
+  <!-- Páginas abertas estilizadas -->
+  <path d="M14 44C14 44 20 41 32 41C44 41 50 44 50 44V22C50 22 44 19 32 19C20 19 14 22 14 22V44Z" fill="#F8F4EB" fill-opacity="0.95" stroke="#EAC568" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Lombada central -->
+  <line x1="32" y1="19" x2="32" y2="41" stroke="#245B57" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Marcador de fita terracota -->
+  <path d="M32 19V32L35 30L38 32V19.5" fill="#C97552" />
+  <!-- Linhas sutis de texto das páginas -->
+  <line x1="20" y1="26" x2="27" y2="25" stroke="#C97552" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="20" y1="31" x2="28" y2="30.5" stroke="#202B33" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.7" />
+  <line x1="20" y1="36" x2="26" y2="35.5" stroke="#202B33" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.7" />
+  <line x1="36" y1="25" x2="44" y2="26" stroke="#202B33" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.7" />
+  <line x1="36" y1="30.5" x2="44" y2="31" stroke="#202B33" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.7" />
+  <line x1="36" y1="35.5" x2="42" y2="36" stroke="#202B33" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.7" />
+</svg>
