@@ -13,7 +13,7 @@
     {
       "binding": "DB",
       "database_name": "entrelinhas-db",
-      "database_id": "YOUR_D1_DATABASE_ID_HERE"
+      "database_id": "189cddde-b4bd-4b57-9b23-6367aced7b0d"
     }
   ],
   "r2_buckets": [
